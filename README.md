@@ -63,7 +63,7 @@
 **ASP.NET, SQL Server, Bootstrap**  
 - Full-stack e-commerce app for browsing products, managing carts & placing orders  
 - Implemented **authentication**, **category management**, **order workflows**  
-🔗 Repo: https://github.com/ABHINAV7592/EcommerceApplication.git
+🔗 Repo: https://github.com/ABHINAV7592/EcommerceApplication.git  
 
 ---
 
@@ -71,7 +71,7 @@
 **ASP.NET MVC, SQL Server**  
 - Skill management, job listings & seamless job applications  
 - Implemented secure authentication & structured workflows  
-🔗 Repo: https://github.com/ABHINAV7592/Job_Portal
+🔗 Repo: https://github.com/ABHINAV7592/Job_Portal  
 
 ---
 
@@ -79,15 +79,15 @@
 **Django, Python, Flutter**  
 - Real-time detection of **potholes**, **drowsiness**, **traffic signs**  
 - Integrated **Google Maps updates** & alert mechanisms  
-🔗 Repo: https://github.com/ABHINAV7592/Smart_Drive.git
+🔗 Repo: https://github.com/ABHINAV7592/Smart_Drive.git  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (WORKING VERSION)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ABHINAV7592&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ABHINAV7592&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=ABHINAV7592&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ABHINAV7592&theme=tokyonight" />
 </p>
 
 ---
