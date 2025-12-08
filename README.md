@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats (WORKING VERSION)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=ABHINAV7592&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
