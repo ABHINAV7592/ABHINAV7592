@@ -86,21 +86,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/ABHINAV7592?label=Total%20Stars&style=for-the-badge&color=yellow" />
-
-  <!-- Total Forks -->
-  <img src="https://img.shields.io/github/forks/ABHINAV7592?label=Total%20Forks&style=for-the-badge&color=blue" />
-
-  <!-- Total Repos -->
-  <img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/ABHINAV7592 | grep public_repos | cut -d ':' -f2 | cut -d ',' -f1)?style=for-the-badge&color=brightgreen" />
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/ABHINAV7592?label=Followers&style=for-the-badge&color=orange" />
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ABHINAV7592&style=for-the-badge&color=blueviolet" />
+  <img src="https://raw.githubusercontent.com/ABHINAV7592/ABHINAV7592/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 ---
