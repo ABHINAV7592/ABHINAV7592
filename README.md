@@ -86,11 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABHINAV7592/ABHINAV7592/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/ABHINAV7592" alt="GitHub Contribution Chart">
 </p>
-
-
-
 ---
 
 ## 🎓 Certifications
