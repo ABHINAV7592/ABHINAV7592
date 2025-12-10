@@ -89,7 +89,6 @@
 </p>
 ---
 
-
 ## 🎓 Certifications
 - Online Internship – **Power BI**  
 - App Development Training – **Teachnook**
