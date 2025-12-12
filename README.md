@@ -14,8 +14,8 @@
 - 🎓 B.Tech IT graduate skilled in **ASP.NET**, **C#**, **SQL**, and **full-stack development**
 - 💻 Currently an **ASP.NET Full Stack Intern** at **Luminar Technolab**
 - 🧠 Strong in **OOP**, **SDLC**, **Front-end UI**, and **Database design**
-- 🚀 Passionate about building scalable, real-world applications
--🛠️ Turning caffeine into features since day one.
+- 🚀 Passionate about building scalable, real-world applications**
+- 🛠️ Turning caffeine into features since day one.
 
 ---
 
