@@ -15,7 +15,7 @@
 - 💻 Currently an **ASP.NET Full Stack Intern** at **Luminar Technolab**
 - 🧠 Strong in **OOP**, **SDLC**, **Front-end UI**, and **Database design**
 - 🚀 Passionate about building scalable, real-world applications
-- ☕ Fun fact: *I turn coffee into clean, working code*
+-🛠️ Turning caffeine into features since day one.
 
 ---
 
