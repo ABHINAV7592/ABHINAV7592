@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7B93E&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abhinav+Chandran+P+K;DotNet+Developer;Full+Stack+Developer;Passionate+about+Building+Web+Applications" />
 </h1>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinavchandranpk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ABHINAV7592"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
