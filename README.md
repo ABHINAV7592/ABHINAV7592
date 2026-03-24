@@ -7,7 +7,6 @@
   <a href="mailto:abhinavchandran77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
 ## 🌍 About Me
 
 - 🎓 B.Tech IT graduate skilled in **ASP.NET**, **C#**, **SQL**, and **full-stack development**
